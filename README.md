@@ -1,2 +1,2 @@
-# guessMaster
-This is a game that allows users to guess the birthday of an entity. In the classes, I used abstract method, abstract class, inheritance, polymorphism (late binding), and clone methods.
+# guessBirthday
+This is a game that allows users to guess the birthday of a random entity. In different classes, abstract method, abstract class, inheritance, polymorphism (late binding), and clone methods had been used. If the user guess the right answer, the program will pop up the winning statment. And corresponding winning tickets will be counted by the program. If not, the user have chance to guess another date.
